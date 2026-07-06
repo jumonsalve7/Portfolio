@@ -1,12 +1,10 @@
 # My Portfolio - Juan Pablo Developer
 
-![Portfolio Screenshot](https://via.placeholder.com/1200x630/0F172A/38BDF8?text=Juan+Pablo+Dev)
-
 > 🚀 Personal portfolio as a Full Stack Developer, built with React + Vite + Tailwind CSS
 
 ## 🌐 Live Site
 
-**Visit my portfolio:** [https://juanpablo.dev/](https://juanpablo.dev/)
+**Visit my portfolio:** http://jumonsalve7.github.io/Portfolio/
 
 ## 📋 Description
 
@@ -122,7 +120,7 @@ GitHub: github.com/tuusuario
 
 LinkedIn: linkedin.com/in/tuusuario
 
-Portfolio: https://juanpablo.dev/
+Portfolio: http://jumonsalve7.github.io/Portfolio/
 
 📝 License
 This project is under the MIT License. See the LICENSE file for more details.
