@@ -1,3 +1,4 @@
+console.log("BASE_URL:", import.meta.env.BASE_URL);
 export const projects = [
   {
     id: 1,
@@ -9,6 +10,7 @@ export const projects = [
     github: "https://github.com/jumonsalve7/moneyflow-frontend",
     demo: "https://moneyflow-frontend-alpha.vercel.app/",
   },
+  
   {
     id: 2,
     title: "Social Media App - AroundUS",
