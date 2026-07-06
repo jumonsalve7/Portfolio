@@ -1,6 +1,6 @@
-import moneyflow from "../assets/moneyflow.png";
-import AroundUS from "../assets/AroundUS.png";
-import SSD from "../assets/SSD.png";
+import moneyflow from "../../assets/moneyflow.png";
+import AroundUS from "../../assets/AroundUS.png";
+import SSD from "../../assets/SSD.png";
 
 export const projects = [
   {
@@ -13,7 +13,6 @@ export const projects = [
     github: "https://github.com/jumonsalve7/moneyflow-frontend",
     demo: "https://moneyflow-frontend-alpha.vercel.app/",
   },
-  
   {
     id: 2,
     title: "Social Media App - AroundUS",
